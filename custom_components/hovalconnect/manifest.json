@@ -1,0 +1,14 @@
+{
+    "domain": "hovalconnect",
+    "name": "HovalConnect",
+    "version": "0.1.0",
+    "documentation": "https://github.com/hgeritzer/homeassistant-hovalconnect",
+    "issue_tracker": "https://github.com/hgeritzer/homeassistant-hovalconnect/issues",
+    "dependencies": [],
+    "config_flow": true,
+    "codeowners": [
+        "@hgeritzer"
+    ],
+    "requirements": [],
+    "iot_class": "cloud_polling"
+}
